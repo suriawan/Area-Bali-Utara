@@ -1,13 +1,5 @@
 # Area-Bali-Utara
- 
- 
-   [convert](https://ozh.github.io/ascii-tables/)
 
- 
-   format ttabel di **convert** 
-   
-   ga('create', 'UA-70651201-1', 'auto');
-  ga('send', 'pageview');
    
  ##MONITORING PEMUTUSAN AREA BARA
  
