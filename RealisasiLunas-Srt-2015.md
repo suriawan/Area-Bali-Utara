@@ -1,4 +1,4 @@
-**[Kembali ke Rekapitulasi Saldo](https://github.com/suriawan/Area-Bali-Utara/blob/master/SaldoHarian-Seririt-2015.md)**
+**[<<<Kembali ke Rekapitulasi Saldo](https://github.com/suriawan/Area-Bali-Utara/blob/master/SaldoHarian-Seririt-2015.md)**
 
 
 #Realisasi Lunas Harian
