@@ -4,6 +4,7 @@
 _Nopember 2015_
 
 **[Rekapitulasi Saldo Harian Singaraja Th 2015.](https://github.com/suriawan/Area-Bali-Utara/blob/master/SaldoHarian-Singaraja-2015.md)** ||
+**[Rekap Pelunasan Harian Singaraja Th 2015.](https://github.com/suriawan/Area-Bali-Utara/edit/master/RealisasiLunas-Sgr-2015.md)** ||
 
 
 
