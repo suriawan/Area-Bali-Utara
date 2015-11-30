@@ -1,10 +1,10 @@
 #MONITORING TUSBUNG DAN BOBOT SLA
 
-**[Rekapitulasi Saldo Harian Singaraja Th 2015.](https://github.com/suriawan/Area-Bali-Utara/blob/master/SaldoHarian-Singaraja-2015.md)** ||
-**[Rekapitulasi Saldo Harian Tejakula Th 2015.](https://github.com/suriawan/Area-Bali-Utara/blob/master/SaldoHarian-Tejakula-2015.md)** ||
-**[Rekapitulasi Saldo Harian Seririt Th 2015.](https://github.com/suriawan/Area-Bali-Utara/blob/master/SaldoHarian-Seririt-2015.md)** ||
-**[Rekapitulasi Saldo Harian Negara Th 2015.](https://github.com/suriawan/Area-Bali-Utara/blob/master/SaldoHarian-Negara-2015.md)** ||
-**[Rekapitulasi Saldo Harian Gilimanuk Th 2015.](https://github.com/suriawan/Area-Bali-Utara/blob/master/SaldoHarian-Gilimanuk-2015.md)**
+**[Kinerja per Petugas Singaraja Nop.15](https://github.com/suriawan/Area-Bali-Utara/blob/master/petugas-singaraja-nop15.md)** || 
+**[Kinerja per Petugas Tejakula Nop.15](https://github.com/suriawan/Area-Bali-Utara/blob/master/petugas-tejakula-nop15.md)** || 
+**[Kinerja per Petugas Seririt Nop.15](https://github.com/suriawan/Area-Bali-Utara/blob/master/petugas-seririt-nop15.md)** || 
+**[Kinerja per Petugas Negara Nop.15](https://github.com/suriawan/Area-Bali-Utara/blob/master/petugas-negara-nop15.md)** || 
+**[Kinerja per Petugas Gilimanuk Nop.15](https://github.com/suriawan/Area-Bali-Utara/blob/master/petugas-gilimanuk-nop15.md)** || 
 
 
 _create data tgl 30.11.2015 jam 11:30_
