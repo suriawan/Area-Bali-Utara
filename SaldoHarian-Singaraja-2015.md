@@ -2,7 +2,6 @@
 
 #REKAPITULASI SALDO HARIAN RAYON SINGARAJA Th 2015
 
-**[Realisasi Lunas Harian](https://github.com/suriawan/Area-Bali-Utara/blob/master/RealisasiLunas-Sgr-2015.md)**  ||  
 
 
 
