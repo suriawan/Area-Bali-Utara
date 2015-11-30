@@ -1,10 +1,7 @@
-**[<<< Kembali ke MONITORING](https://github.com/suriawan/Area-Bali-Utara/blob/master/TUSBUNG.md)**
+**[<<< Kembali ke Kinerja Petugas](https://github.com/suriawan/Area-Bali-Utara/blob/master/petugas-gilimanuk-nop15.md)**
 
 #REKAPITULASI SALDO HARIAN GILIMANUK Th 2015
 
-
-**[Realisasi Lunas Harian](https://github.com/suriawan/Area-Bali-Utara/blob/master/RealisasiLunas-Gil-2015.md)** || 
-**[Kinerja per Petugas Nop.15](https://github.com/suriawan/Area-Bali-Utara/blob/master/petugas-gilimanuk-nop15.md)** || 
 
 
 
