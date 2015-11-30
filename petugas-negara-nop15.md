@@ -7,7 +7,7 @@ _Nopember 2015_
 
 
 **[Rekapitulasi Saldo Harian Negara Th 2015.](https://github.com/suriawan/Area-Bali-Utara/blob/master/SaldoHarian-Negara-2015.md)** || 
-**[Realisasi Lunas harian Negara Th 2015.](https://github.com/suriawan/Area-Bali-Utara/blob/master/RealisasiLunas-Ngr-2015.md)**
+**[Realisasi Lunas harian Negara Th 2015.](https://github.com/suriawan/Area-Bali-Utara/blob/master/RealisasiLunas-Neg-2015.md)**
 
 
 _Create data Tgl 30.11.2015 Jam 11:40
