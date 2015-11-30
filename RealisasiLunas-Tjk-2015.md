@@ -1,4 +1,4 @@
-**[<<< Kembali ke Rekapitulasi Saldo](https://github.com/suriawan/Area-Bali-Utara/blob/master/SaldoHarian-Tejakula-2015.md)**
+**[<<< Kembali ke Kinerja Petugas](https://github.com/suriawan/Area-Bali-Utara/blob/master/petugas-tejakula-nop15.md)**
 
 #Realisasi Lunas Harian
 
