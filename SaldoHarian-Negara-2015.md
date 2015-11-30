@@ -1,9 +1,6 @@
-**[<<< Kembali ke MONITORING](https://github.com/suriawan/Area-Bali-Utara/blob/master/TUSBUNG.md)**
+**[<<< Kembali ke Kinerja Petugas](https://github.com/suriawan/Area-Bali-Utara/blob/master/SaldoHarian-Negara-2015.md)**
 
 #REKAPITULASI SALDO HARIAN NEGARA Th 2015
-
-**[Realisasi Lunas Harian](https://github.com/suriawan/Area-Bali-Utara/blob/master/RealisasiLunas-Neg-2015.md)** || 
-**[Kinerja per Petugas Nop.15](https://github.com/suriawan/Area-Bali-Utara/blob/master/petugas-negara-nop15.md)** ||
 
 
 
