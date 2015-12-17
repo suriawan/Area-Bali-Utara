@@ -3,9 +3,6 @@
 #Kinerja Petugas Tejakula
 _Nopember 2015_
 
-**[Rekapitulasi Saldo Harian Tejakula Th 2015.](https://github.com/suriawan/Area-Bali-Utara/blob/master/SaldoHarian-Tejakula-2015.md)** || 
-**[Realisasi Lunas harian Tejakula Th 2015.](https://github.com/suriawan/Area-Bali-Utara/blob/master/RealisasiLunas-Tjk-2015.md)** || 
-
 
 
 _Create data Tgl 30.11.2015 Jam 20:40_
