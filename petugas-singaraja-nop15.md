@@ -3,10 +3,6 @@
 #Kinerja Petugas Singaraja
 _Nopember 2015_
 
-**[Rekapitulasi Saldo Harian Singaraja Th 2015.](https://github.com/suriawan/Area-Bali-Utara/blob/master/SaldoHarian-Singaraja-2015.md)** ||
-**[Rekap Pelunasan Harian Singaraja Th 2015.](https://github.com/suriawan/Area-Bali-Utara/blob/master/RealisasiLunas-Sgr-2015.md)** ||
-
-
 
 _Create data Tgl 30.11.2015 Jam 00:00_
 
