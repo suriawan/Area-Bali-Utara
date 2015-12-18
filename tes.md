@@ -1,0 +1,16 @@
+<table><tbody><tr><th>No</th><th>UserID</th><th>Nama</th><th>Total Plg</th><th>Total Rp TGK</th><th>Target TGK</th><th>Realisasi Saldo TGK (Blm Lunas)</th><th>% Pencapaian Thd Target TGK</th><th>PK 2 Bln - Blm Lunas</th><th>PK 3 Bln - Blm Lunas</th><th>PK 4 Bln - Blm Lunas
+</th></tr><tr><td>1.</td><td>5534003</td><td>&nbsp;NI NYOMAN PUTRI WIDIANI</td><td>1.590</td><td>150.720.030</td><td>77553515</td><td>58.633.937</td><td>124%</td><td>4</td><td>0</td><td>0
+</th></tr><tr><td>2.</td><td>5534005</td><td>&nbsp;I GEDE SUJANA</td><td>950</td><td>82.409.532</td><td>46352672</td><td>31.467.102</td><td>132%</td><td>11</td><td>0</td><td>0
+</th></tr><tr><td>3.</td><td>5534006</td><td>&nbsp;PUTU EKA SURYANA</td><td>1.617</td><td>239.283.743</td><td>78759662</td><td>126.613.923</td><td>39%</td><td>19</td><td>0</td><td>0
+</th></tr><tr><td>4.</td><td>5534008</td><td>&nbsp;DEDI RAHMADI</td><td>1.267</td><td>237.326.018</td><td>61800064</td><td>118.757.276</td><td>8%</td><td>14</td><td>0</td><td>0
+</th></tr><tr><td>5.</td><td>5534009</td><td>&nbsp;GEDE SUTARMA</td><td>1.359</td><td>301.575.190</td><td>65965745</td><td>137.159.500</td><td>-8%</td><td>25</td><td>3</td><td>0
+</th></tr><tr><td>6.</td><td>5534010</td><td>&nbsp;SUMANGKU</td><td>1.314</td><td>216.527.178</td><td>64052240</td><td>133.887.466</td><td>-9%</td><td>27</td><td>1</td><td>0
+</th></tr><tr><td>7.</td><td>5534011</td><td>&nbsp;WIDIYASA</td><td>1.324</td><td>290.335.560</td><td>64112049</td><td>158.956.423</td><td>-48%</td><td>45</td><td>0</td><td>0
+</th></tr><tr><td>8.</td><td>5534012</td><td>&nbsp;WIDANA</td><td>1.312</td><td>854.485.579</td><td>62302625</td><td>287.859.168</td><td>-262%</td><td>30</td><td>7</td><td>0
+</th></tr><tr><td>9.</td><td>5534013</td><td>&nbsp;MADE BALIASA</td><td>1.302</td><td>436.525.085</td><td>62746840</td><td>175.821.255</td><td>-80%</td><td>49</td><td>5</td><td>0
+</th></tr><tr><td> </td><td> </th><th>SUB TOTAL</th><th>12.035</th><th>2.809.187.915</th><th>583.645.412</th><th>1.229.156.050</th><th>-11%</th><th>224</th><th>16</th><th>0
+</th></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>
+</th></tr><tr><td> </th><th>AMR</td><td>&gt;&gt;&gt;</td><td>21</td><td> </td><td> </td><td>577.541.891</td><td> </td><td>0</td><td>0</td><td>0
+</th></tr><tr><td> </th><th>NULL</td><td>tdk ada petugas</td><td>2</td><td> </td><td> </td><td>451.488</td><td> </td><td>0</td><td>2</td><td>0
+</th></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>577.993.379</td><td> </td><td> </td><td> </td><td>
+</th></tr><tr><td> </td><td> </td><td>TOTAL</td><td> </td><td> </td><td> </td><td>1.807.149.429</td><td> </td><td> </td><td> </td><td>
