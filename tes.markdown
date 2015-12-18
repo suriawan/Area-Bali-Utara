@@ -11,6 +11,6 @@
 
 
 # BARA-Membara
-###[BARA pages](http://areabatur.github.io/3mm.3atur/) 
+###[BARA pages](https://github.com/suriawan/Area-Bali-Utara/blob/master/TUSBUNG.md) 
 
 bali - 2015
