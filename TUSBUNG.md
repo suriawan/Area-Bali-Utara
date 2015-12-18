@@ -1,5 +1,5 @@
 #MONITORING TUSBUNG DAN BOBOT SLA
-**[Periode Desember 2015]**
+**Periode Desember 2015**
 
 
 **[Kinerja per Petugas Singaraja Des.15](https://github.com/suriawan/Area-Bali-Utara/blob/master/petugas-singaraja-des15.md)** ||
