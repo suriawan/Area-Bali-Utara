@@ -1,7 +1,8 @@
 **[<<< Kembali ke MONITORING](https://github.com/suriawan/Area-Bali-Utara/blob/master/TUSBUNG.md)**
 
 #Kinerja Petugas Seririt
-_Desember 2015_ * _Target Tgl 20_
+_Desember 2015_      _Target Tgl 20_
+
 
 
 
