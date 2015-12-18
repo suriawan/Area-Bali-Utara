@@ -1,7 +1,7 @@
 **[<<< Kembali ke MONITORING](https://github.com/suriawan/Area-Bali-Utara/blob/master/TUSBUNG.md)**
 
 #Kinerja Petugas Tejakula
-**[Desember 2015]** <> _Target Tgl 20_
+**[Desember 2015)** <> _Target Tgl 20_
 
 
 _Create data Tgl 18.12.2015 Jam 17:30_
