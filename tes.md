@@ -1,8 +1,13 @@
-/* Contoh baik */
-.selector,
-.selector-secondary,
-.selector[type="text"] {
-  padding: 15px;
-  margin-bottom: 15px;
-  background-color: rgba(0,0,0,.5);
-  box-shadow: 0 1px 2px #ccc, inset 0 1px 0 #fff;
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-70651201-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+# 3mm.3atur
