@@ -6,7 +6,7 @@ _Periode Desember 2015_
 **[Kinerja per Petugas Tejakula Des.15](https://github.com/suriawan/Area-Bali-Utara/blob/master/petugas-tejakula-des15.md)** ||
 **[Kinerja per Petugas Seririt Des.15](https://github.com/suriawan/Area-Bali-Utara/blob/master/petugas-seririt-des15.md)** ||
 **[Kinerja per Petugas Negara Des.15](https://github.com/suriawan/Area-Bali-Utara/blob/master/petugas-negara-des15.md)** ||
-**[Kinerja per Petugas Negara Des.15](https://github.com/suriawan/Area-Bali-Utara/blob/master/petugas-gilimanuk-des15.md)** ||
+**[Kinerja per Petugas Gilimanuk Des.15](https://github.com/suriawan/Area-Bali-Utara/blob/master/petugas-gilimanuk-des15.md)** ||
 
 
 
